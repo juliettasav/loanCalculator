@@ -1,0 +1,20 @@
+.input-group-addon {
+    background-color: #8080802b;
+    padding: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid #ced4da;
+    border-right: none;
+}
+
+.loading-img img{
+    width: 100%;
+}
+
+#loading {
+    display: none;
+}
+
+#results {
+    display: none;
+}
